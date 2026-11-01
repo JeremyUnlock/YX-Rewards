@@ -1,6 +1,6 @@
-:HL["/YX-Rewards/_next/static/chunks/12lq97-sipcpm.css","style"]
+:HL["/YX-Rewards/_next/static/chunks/1o09l8wt9y4pz.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"sucursales","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"admin","h":96,"c":"$Q2"}]]
-0:{"b":"SnzaCwMbbxMdePuVd1cDT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"gCEejW3oF8r4a2NCe_emA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
