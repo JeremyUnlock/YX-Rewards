@@ -9,7 +9,7 @@
       <stop offset="50%" stop-color="#6B2FD9"/>
       <stop offset="100%" stop-color="#F5A623"/>
     </linearGradient>
-    <linearGradient id="yx" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="yx" gradientUnits="userSpaceOnUse" x1="20" y1="26" x2="80" y2="74">
       <stop offset="0%" stop-color="#4DA3FF"/>
       <stop offset="100%" stop-color="#00D4FF"/>
     </linearGradient>
