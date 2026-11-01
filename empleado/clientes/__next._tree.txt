@@ -1,6 +1,6 @@
-:HL["/YX-Rewards/_next/static/chunks/3qeim639b0fke.css","style"]
+:HL["/YX-Rewards/_next/static/chunks/0ou2vf1i0kh4i.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"clientes","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"empleado","h":96,"c":"$Q2"}]]
-0:{"b":"7t478G073RnLBYAQ3KB8V","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Au5swEajiYS2phrwDjzeq","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
